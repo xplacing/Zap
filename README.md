@@ -1,5 +1,5 @@
 # Zap
-Simple SQLi Union Vulnerablity Scanner
+Simple SQLi Union Vulnerablity Scanner Written In Python 3
 
 Usage:
 import Zap
